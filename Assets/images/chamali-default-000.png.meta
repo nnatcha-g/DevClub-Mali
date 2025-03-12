@@ -1,0 +1,4186 @@
+fileFormatVersion: 2
+guid: 18d15fcd44ccaf54eb384f9998b2d404
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8166810561406779273
+    second: chamali-default-000_0
+  - first:
+      213: -4340105399858108413
+    second: chamali-default-000_1
+  - first:
+      213: -4761334800807888337
+    second: chamali-default-000_2
+  - first:
+      213: 4095565770700953494
+    second: chamali-default-000_3
+  - first:
+      213: 1762428104275916417
+    second: chamali-default-000_4
+  - first:
+      213: -3579079839047049561
+    second: chamali-default-000_5
+  - first:
+      213: -6030157097004693481
+    second: chamali-default-000_6
+  - first:
+      213: 4200757879241005131
+    second: chamali-default-000_7
+  - first:
+      213: 3771848799809429897
+    second: chamali-default-000_8
+  - first:
+      213: 4738549978977171009
+    second: chamali-default-000_9
+  - first:
+      213: -8844274051267817501
+    second: chamali-default-000_10
+  - first:
+      213: -1366368995745340257
+    second: chamali-default-000_11
+  - first:
+      213: 8664479588911692966
+    second: chamali-default-000_12
+  - first:
+      213: -8985266221069664682
+    second: chamali-default-000_13
+  - first:
+      213: 7561814237501343431
+    second: chamali-default-000_14
+  - first:
+      213: -2580265790361633005
+    second: chamali-default-000_15
+  - first:
+      213: 2444858947246569947
+    second: chamali-default-000_16
+  - first:
+      213: 5764705748312334512
+    second: chamali-default-000_17
+  - first:
+      213: 2945362866223808916
+    second: chamali-default-000_18
+  - first:
+      213: -6739134247775093446
+    second: chamali-default-000_19
+  - first:
+      213: 2084808966433004012
+    second: chamali-default-000_20
+  - first:
+      213: -6769675132244881155
+    second: chamali-default-000_21
+  - first:
+      213: 6189730308232514108
+    second: chamali-default-000_22
+  - first:
+      213: -7091462255344989669
+    second: chamali-default-000_23
+  - first:
+      213: -4778787374789885629
+    second: chamali-default-000_24
+  - first:
+      213: -7402784211718291761
+    second: chamali-default-000_25
+  - first:
+      213: 5395607552856443387
+    second: chamali-default-000_26
+  - first:
+      213: -3010018363331178190
+    second: chamali-default-000_27
+  - first:
+      213: 4843101046444564314
+    second: chamali-default-000_28
+  - first:
+      213: -4048810194600460813
+    second: chamali-default-000_29
+  - first:
+      213: 5604963398616707811
+    second: chamali-default-000_30
+  - first:
+      213: 8282890066010279612
+    second: chamali-default-000_31
+  - first:
+      213: 7844667554779957345
+    second: chamali-default-000_32
+  - first:
+      213: 978451089254475030
+    second: chamali-default-000_33
+  - first:
+      213: -3550312546938894064
+    second: chamali-default-000_34
+  - first:
+      213: 1123466968108273632
+    second: chamali-default-000_35
+  - first:
+      213: -6866780786630656225
+    second: chamali-default-000_36
+  - first:
+      213: 6950859203576095098
+    second: chamali-default-000_37
+  - first:
+      213: -1885938799855246429
+    second: chamali-default-000_38
+  - first:
+      213: 3684941135596614363
+    second: chamali-default-000_39
+  - first:
+      213: 8311682984513647926
+    second: chamali-default-000_40
+  - first:
+      213: -4932291011956877226
+    second: chamali-default-000_41
+  - first:
+      213: 942019087910330943
+    second: chamali-default-000_42
+  - first:
+      213: -3221900792938563700
+    second: chamali-default-000_43
+  - first:
+      213: -1217306078373011471
+    second: chamali-default-000_44
+  - first:
+      213: 9010487934080379744
+    second: chamali-default-000_45
+  - first:
+      213: -5004415213368427249
+    second: chamali-default-000_46
+  - first:
+      213: -4686378653471126271
+    second: chamali-default-000_47
+  - first:
+      213: 5292096851222357829
+    second: chamali-default-000_48
+  - first:
+      213: 6154103428981034822
+    second: chamali-default-000_49
+  - first:
+      213: -8194310362897931520
+    second: chamali-default-000_50
+  - first:
+      213: -982175007911979810
+    second: chamali-default-000_51
+  - first:
+      213: -8357017262139138444
+    second: chamali-default-000_52
+  - first:
+      213: -1349718941311083164
+    second: chamali-default-000_53
+  - first:
+      213: 2593846110750050610
+    second: chamali-default-000_54
+  - first:
+      213: -1484498899528032697
+    second: chamali-default-000_55
+  - first:
+      213: 1540096567162784316
+    second: chamali-default-000_56
+  - first:
+      213: 8726834955568492655
+    second: chamali-default-000_57
+  - first:
+      213: -5468574860223893829
+    second: chamali-default-000_58
+  - first:
+      213: -762324226655109910
+    second: chamali-default-000_59
+  - first:
+      213: 2203278011991054094
+    second: chamali-default-000_60
+  - first:
+      213: -4305120589232028757
+    second: chamali-default-000_61
+  - first:
+      213: -7700382297417842807
+    second: chamali-default-000_62
+  - first:
+      213: -1674293118644713513
+    second: chamali-default-000_63
+  - first:
+      213: -2838057247246730102
+    second: chamali-default-000_64
+  - first:
+      213: -812655668043163056
+    second: chamali-default-000_65
+  - first:
+      213: 8571109471256456985
+    second: chamali-default-000_66
+  - first:
+      213: 3312309629063290261
+    second: chamali-default-000_67
+  - first:
+      213: 6226236587935112789
+    second: chamali-default-000_68
+  - first:
+      213: -2608485860532135183
+    second: chamali-default-000_69
+  - first:
+      213: -6246588677450888243
+    second: chamali-default-000_70
+  - first:
+      213: -1157999653356641318
+    second: chamali-default-000_71
+  - first:
+      213: 4327910332605516619
+    second: chamali-default-000_72
+  - first:
+      213: -7753290761614678541
+    second: chamali-default-000_73
+  - first:
+      213: 4354920524639239789
+    second: chamali-default-000_74
+  - first:
+      213: 2285294733687567463
+    second: chamali-default-000_75
+  - first:
+      213: -7979173551609787713
+    second: chamali-default-000_76
+  - first:
+      213: -8038483768671484072
+    second: chamali-default-000_77
+  - first:
+      213: -5316089675560899353
+    second: chamali-default-000_78
+  - first:
+      213: -1335511954140027052
+    second: chamali-default-000_79
+  - first:
+      213: -5600228989057464263
+    second: chamali-default-000_80
+  - first:
+      213: -2172705646444694352
+    second: chamali-default-000_81
+  - first:
+      213: 1712862400051298488
+    second: chamali-default-000_82
+  - first:
+      213: -6352555842661071105
+    second: chamali-default-000_83
+  - first:
+      213: -951077412000146151
+    second: chamali-default-000_84
+  - first:
+      213: -3383895244229634628
+    second: chamali-default-000_85
+  - first:
+      213: 3216018830779539142
+    second: chamali-default-000_86
+  - first:
+      213: -5859035389501168260
+    second: chamali-default-000_87
+  - first:
+      213: 7126609231535775719
+    second: chamali-default-000_88
+  - first:
+      213: 1975803601805454341
+    second: chamali-default-000_89
+  - first:
+      213: 2610485479567869633
+    second: chamali-default-000_90
+  - first:
+      213: -778182917673161014
+    second: chamali-default-000_91
+  - first:
+      213: -3217607833417058820
+    second: chamali-default-000_92
+  - first:
+      213: -2779862829772769073
+    second: chamali-default-000_93
+  - first:
+      213: 4201591522460610712
+    second: chamali-default-000_94
+  - first:
+      213: 1842507404485750666
+    second: chamali-default-000_95
+  - first:
+      213: 1461994185481001882
+    second: chamali-default-000_96
+  - first:
+      213: -2440191023791269826
+    second: chamali-default-000_97
+  - first:
+      213: 2318047014146545748
+    second: chamali-default-000_98
+  - first:
+      213: 8668704421626126218
+    second: chamali-default-000_99
+  - first:
+      213: 7201637559770033593
+    second: chamali-default-000_100
+  - first:
+      213: 4545926434390993164
+    second: chamali-default-000_101
+  - first:
+      213: 7014133741586400041
+    second: chamali-default-000_102
+  - first:
+      213: 584190297929147874
+    second: chamali-default-000_103
+  - first:
+      213: 1653575565926969755
+    second: chamali-default-000_104
+  - first:
+      213: 121914372474168613
+    second: chamali-default-000_105
+  - first:
+      213: -3076603296076196535
+    second: chamali-default-000_106
+  - first:
+      213: -5568161599477632022
+    second: chamali-default-000_107
+  - first:
+      213: 3489454939763651991
+    second: chamali-default-000_108
+  - first:
+      213: -7613652799540927822
+    second: chamali-default-000_109
+  - first:
+      213: -8544798051105344966
+    second: chamali-default-000_110
+  - first:
+      213: -108961822292923091
+    second: chamali-default-000_111
+  - first:
+      213: 6871665515913988125
+    second: chamali-default-000_112
+  - first:
+      213: -8926175573381515775
+    second: chamali-default-000_113
+  - first:
+      213: 624595975875772182
+    second: chamali-default-000_114
+  - first:
+      213: -138185952805827537
+    second: chamali-default-000_115
+  - first:
+      213: 3803553113350406810
+    second: chamali-default-000_116
+  - first:
+      213: -4855848078007368545
+    second: chamali-default-000_117
+  - first:
+      213: 5853083262796704663
+    second: chamali-default-000_118
+  - first:
+      213: -2353226450125695143
+    second: chamali-default-000_119
+  - first:
+      213: -1794736635149605698
+    second: chamali-default-000_120
+  - first:
+      213: -545162297721101325
+    second: chamali-default-000_121
+  - first:
+      213: 1762092195844825817
+    second: chamali-default-000_122
+  - first:
+      213: -4798649213157226834
+    second: chamali-default-000_123
+  - first:
+      213: -8535376503206616386
+    second: chamali-default-000_124
+  - first:
+      213: -8681060371681441273
+    second: chamali-default-000_125
+  - first:
+      213: -3889234413914904614
+    second: chamali-default-000_126
+  - first:
+      213: 2672573907982160695
+    second: chamali-default-000_127
+  - first:
+      213: 1858600421415390774
+    second: chamali-default-000_128
+  - first:
+      213: 4255577219711108533
+    second: chamali-default-000_129
+  - first:
+      213: -3742679801995020426
+    second: chamali-default-000_130
+  - first:
+      213: 602149748286180507
+    second: chamali-default-000_131
+  - first:
+      213: -8735489036026735863
+    second: chamali-default-000_132
+  - first:
+      213: 5999802227477614727
+    second: chamali-default-000_133
+  - first:
+      213: 897609880722719027
+    second: chamali-default-000_134
+  - first:
+      213: 5396369361178878011
+    second: chamali-default-000_135
+  - first:
+      213: -6411693060258960773
+    second: chamali-default-000_136
+  - first:
+      213: -358114642133564959
+    second: chamali-default-000_137
+  - first:
+      213: 8335977266695144859
+    second: chamali-default-000_138
+  - first:
+      213: -1924981180879957254
+    second: chamali-default-000_139
+  - first:
+      213: -1172177210961694689
+    second: chamali-default-000_140
+  - first:
+      213: -8632451655464213776
+    second: chamali-default-000_141
+  - first:
+      213: -3533958649708873413
+    second: chamali-default-000_142
+  - first:
+      213: -1725231039913740948
+    second: chamali-default-000_143
+  - first:
+      213: 4448073593968033882
+    second: chamali-default-000_144
+  - first:
+      213: 7885235822887956533
+    second: chamali-default-000_145
+  - first:
+      213: 8085099980393877420
+    second: chamali-default-000_146
+  - first:
+      213: 5259056327914015052
+    second: chamali-default-000_147
+  - first:
+      213: 3233345462727007246
+    second: chamali-default-000_148
+  - first:
+      213: 180572286334199024
+    second: chamali-default-000_149
+  - first:
+      213: 3463193305551424785
+    second: chamali-default-000_150
+  - first:
+      213: 5822985362493756151
+    second: chamali-default-000_151
+  - first:
+      213: 5943182807987327230
+    second: chamali-default-000_152
+  - first:
+      213: -6372107678066626655
+    second: chamali-default-000_153
+  - first:
+      213: 392823961826440676
+    second: chamali-default-000_154
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chamali-default-000_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1660
+        height: 2057
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770c0736019a9ae80800000000000000
+      internalID: -8166810561406779273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1965
+        width: 41
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308e3b93229d4c3c0800000000000000
+      internalID: -4340105399858108413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1964
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2af32da9375cedb0800000000000000
+      internalID: -4761334800807888337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2026
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69711e48e5f56d830800000000000000
+      internalID: 4095565770700953494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1993
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186f789e507657810800000000000000
+      internalID: 1762428104275916417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2011
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae96d269dd845ec0800000000000000
+      internalID: -3579079839047049561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2019
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7180c35c114905ca0800000000000000
+      internalID: -6030157097004693481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1952
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48559bd8071c4a30800000000000000
+      internalID: 4200757879241005131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1886
+        width: 21
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981ef13df7c485430800000000000000
+      internalID: 3771848799809429897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1955
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1467e579916b2c140800000000000000
+      internalID: 4738549978977171009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1951
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef0afdfb93d24580800000000000000
+      internalID: -8844274051267817501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1934
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94ed7043aea90de0800000000000000
+      internalID: -1366368995745340257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1914
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac34bc974a6e3870800000000000000
+      internalID: 8664479588911692966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1920
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e73d85afbed4380800000000000000
+      internalID: -8985266221069664682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1918
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c642cb1cf5f0f860800000000000000
+      internalID: 7561814237501343431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1911
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ff66b3fed013cd0800000000000000
+      internalID: -2580265790361633005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1850
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd931945242ede120800000000000000
+      internalID: 2444858947246569947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1870
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b02fcad559500050800000000000000
+      internalID: 5764705748312334512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1876
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49185efebe700e820800000000000000
+      internalID: 2945362866223808916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1875
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d32bb6b19c972a0800000000000000
+      internalID: -6739134247775093446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1859
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9d9cc85babeec10800000000000000
+      internalID: 2084808966433004012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1866
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df09fb1a5584d02a0800000000000000
+      internalID: -6769675132244881155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1867
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a0ba5bbe656e550800000000000000
+      internalID: 6189730308232514108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1853
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a4214a6a0169d90800000000000000
+      internalID: -7091462255344989669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1844
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3410784a3365eadb0800000000000000
+      internalID: -4778787374789885629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1827
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce39a72bf6044990800000000000000
+      internalID: -7402784211718291761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1832
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf94c6f6b7c01ea40800000000000000
+      internalID: 5395607552856443387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1840
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2311e3e0f344a36d0800000000000000
+      internalID: -3010018363331178190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1838
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f96acedb6263340800000000000000
+      internalID: 4843101046444564314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1829
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdfbdb549cbfc7c0800000000000000
+      internalID: -4048810194600460813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1833
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e27d91c384d8cd40800000000000000
+      internalID: 5604963398616707811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1828
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe872261acb2f270800000000000000
+      internalID: 8282890066010279612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1832
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16801b7049bdddc60800000000000000
+      internalID: 7844667554779957345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1818
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6156b15e418249d00800000000000000
+      internalID: 978451089254475030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1821
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01948168c81cabec0800000000000000
+      internalID: -3550312546938894064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_35
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1820
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef8afe414b579f00800000000000000
+      internalID: 1123466968108273632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_36
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1816
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ff66e914b44b0a0800000000000000
+      internalID: -6866780786630656225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1810
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7168e05e99667060800000000000000
+      internalID: 6950859203576095098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1807
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3608657acc3d5e0800000000000000
+      internalID: -1885938799855246429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1793
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2f57d607a832330800000000000000
+      internalID: 3684941135596614363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1803
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635389123a7095370800000000000000
+      internalID: 8311682984513647926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1799
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658557ff47bfc8bb0800000000000000
+      internalID: -4932291011956877226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_42
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1808
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3268829e59b21d00800000000000000
+      internalID: 942019087910330943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1802
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87f8579c428943d0800000000000000
+      internalID: -3221900792938563700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1806
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff17af32924b1fe0800000000000000
+      internalID: -1217306078373011471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1807
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bedc3590fab0d70800000000000000
+      internalID: 9010487934080379744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1807
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d3d92c0eebc8ab0800000000000000
+      internalID: -5004415213368427249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_47
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1801
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d41e4b173a6feb0800000000000000
+      internalID: -4686378653471126271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1777
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54762162c0e417940800000000000000
+      internalID: 5292096851222357829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1785
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f8d6b7674c76550800000000000000
+      internalID: 6154103428981034822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1795
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003aa28e326f74e80800000000000000
+      internalID: -8194310362897931520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1773
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4d32ab80d9e52f0800000000000000
+      internalID: -982175007911979810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_52
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1778
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e9364d319e50c80800000000000000
+      internalID: -8357017262139138444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_53
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1776
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d598426c5d44de0800000000000000
+      internalID: -1349718941311083164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_54
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1772
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23909418b413ff320800000000000000
+      internalID: 2593846110750050610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1752
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e5c28bd10066be0800000000000000
+      internalID: -1484498899528032697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1770
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a49850ba58f5510800000000000000
+      internalID: 1540096567162784316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1762
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f603f14c722fb1970800000000000000
+      internalID: 8726834955568492655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1767
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe29bc6328bb14b0800000000000000
+      internalID: -5468574860223893829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_59
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1767
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec3c82a72eab65f0800000000000000
+      internalID: -762324226655109910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_60
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1759
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07d72eadad939e10800000000000000
+      internalID: 2203278011991054094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1724
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3ca9332a32144c0800000000000000
+      internalID: -4305120589232028757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1750
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ff3bf491fb22590800000000000000
+      internalID: -7700382297417842807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_63
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1759
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d70d458747b3c8e0800000000000000
+      internalID: -1674293118644713513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_64
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1755
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cb2a568f13d98d0800000000000000
+      internalID: -2838057247246730102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_65
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1756
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a549db9fdd8b4f0800000000000000
+      internalID: -812655668043163056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1738
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f2a3507a2b2f670800000000000000
+      internalID: 8571109471256456985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_67
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1746
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d5c6aee00b7fd20800000000000000
+      internalID: 3312309629063290261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1741
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e996f4039086650800000000000000
+      internalID: 6226236587935112789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1730
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa5a512eebcccbd0800000000000000
+      internalID: -2608485860532135183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1686
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb009691b8af49a0800000000000000
+      internalID: -6246588677450888243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1720
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3e6ab5375fdefe0800000000000000
+      internalID: -1157999653356641318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_72
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1716
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bc1ba6483df0c30800000000000000
+      internalID: 4327910332605516619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_73
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1703
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5a3a98127c66490800000000000000
+      internalID: -7753290761614678541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1301
+        width: 177
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6efd20d429cf6c30800000000000000
+      internalID: 4354920524639239789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_75
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1701
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764b488c37ff6bf10800000000000000
+      internalID: 2285294733687567463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1266
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba4b172ee7444190800000000000000
+      internalID: -7979173551609787713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_77
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1288
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857c7932a91917090800000000000000
+      internalID: -8038483768671484072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1247
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec221e1b947936b0800000000000000
+      internalID: -5316089675560899353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_79
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1263
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457223c14fe477de0800000000000000
+      internalID: -1335511954140027052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_80
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1265
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938826ed76df742b0800000000000000
+      internalID: -5600228989057464263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_81
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1257
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4bd2ed9bff8d1e0800000000000000
+      internalID: -2172705646444694352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_82
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1242
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b04e28174f45c710800000000000000
+      internalID: 1712862400051298488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_83
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1264
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6ca5e4e1037d7a0800000000000000
+      internalID: -6352555842661071105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_84
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1243
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d55dff1281dc2f0800000000000000
+      internalID: -951077412000146151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1248
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb51f8a343df901d0800000000000000
+      internalID: -3383895244229634628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_86
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1240
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ced49f561891ac20800000000000000
+      internalID: 3216018830779539142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_87
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1236
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7527521b5680bea0800000000000000
+      internalID: -5859035389501168260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1228
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef95b2765dc6e260800000000000000
+      internalID: 7126609231535775719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1228
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c2d8758e67b6b10800000000000000
+      internalID: 1975803601805454341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_90
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1232
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c645f476be4a3420800000000000000
+      internalID: 2610485479567869633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_91
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1236
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace60d562c65335f0800000000000000
+      internalID: -778182917673161014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_92
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1235
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf579ae19b2c853d0800000000000000
+      internalID: -3217607833417058820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1210
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8f4131c71fb69d0800000000000000
+      internalID: -2779862829772769073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_94
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1224
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890be8b8a3d0f4a30800000000000000
+      internalID: 4201591522460610712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_95
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1215
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f666ce8b6e19910800000000000000
+      internalID: 1842507404485750666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_96
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1226
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b184937fb0a4410800000000000000
+      internalID: 1461994185481001882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_97
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3813da4133b22ed0800000000000000
+      internalID: -2440191023791269826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_98
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4581cd25a7b5b2020800000000000000
+      internalID: 2318047014146545748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_99
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f12e12ebc6d4870800000000000000
+      internalID: 8668704421626126218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_100
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1220
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd2437643b51f360800000000000000
+      internalID: 7201637559770033593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_101
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1204
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09eee8b100661f30800000000000000
+      internalID: 4545926434390993164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_102
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1203
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923c65ab975375160800000000000000
+      internalID: 7014133741586400041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_103
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1211
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5eb451bf57b1800800000000000000
+      internalID: 584190297929147874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_104
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91b758573ea2f610800000000000000
+      internalID: 1653575565926969755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1203
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5256650d97021b100800000000000000
+      internalID: 121914372474168613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_106
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1198
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945159e4a95bd45d0800000000000000
+      internalID: -3076603296076196535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_107
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1198
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae33a23d68ae9b2b0800000000000000
+      internalID: -5568161599477632022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_108
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1197
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7953850a7c80d6030800000000000000
+      internalID: 3489454939763651991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_109
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1199
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b264302e1fd65690800000000000000
+      internalID: -7613652799540927822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_110
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1199
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a327a6ed177ca6980800000000000000
+      internalID: -8544798051105344966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1189
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2da628ccc3ec7ef0800000000000000
+      internalID: -108961822292923091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_112
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1189
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18ca5b016f0d5f50800000000000000
+      internalID: 6871665515913988125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_113
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1180
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10673d1eb9adf1480800000000000000
+      internalID: -8926175573381515775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_114
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1186
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fb6361bb20ba800800000000000000
+      internalID: 624595975875772182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_115
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c4f0aab90151ef0800000000000000
+      internalID: -138185952805827537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1165
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92059d876fe8c430800000000000000
+      internalID: 3803553113350406810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_117
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1162
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f948b1386ef8c9cb0800000000000000
+      internalID: -4855848078007368545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_118
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b28cf67345a3150800000000000000
+      internalID: 5853083262796704663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_119
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1171
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9575434f209a75fd0800000000000000
+      internalID: -2353226450125695143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_120
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1173
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4278c0a80d717e0800000000000000
+      internalID: -1794736635149605698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_121
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1170
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3e56357c13f68f0800000000000000
+      internalID: -545162297721101325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_122
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1164
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2a1d22485347810800000000000000
+      internalID: 1762092195844825817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_123
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1156
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea64e0807f5c76db0800000000000000
+      internalID: -4798649213157226834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_124
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1161
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2672eea404c8980800000000000000
+      internalID: -8535376503206616386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_125
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1158
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a0530169da68780800000000000000
+      internalID: -8681060371681441273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_126
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1150
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7a06618e9a60ac0800000000000000
+      internalID: -3889234413914904614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_127
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1144
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73311453fc3e61520800000000000000
+      internalID: 2672573907982160695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_128
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1150
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e0bd96c331bc910800000000000000
+      internalID: 1858600421415390774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1148
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5002f2fe8de0b30800000000000000
+      internalID: 4255577219711108533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_130
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1138
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677be06bc845f0cc0800000000000000
+      internalID: -3742679801995020426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_131
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1137
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c403871044b5800800000000000000
+      internalID: 602149748286180507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_132
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9039e4c110f45c680800000000000000
+      internalID: -8735489036026735863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_133
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1142
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780966b6654934350800000000000000
+      internalID: 5999802227477614727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_134
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1128
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331cb574e63f47c00800000000000000
+      internalID: 897609880722719027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_135
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1133
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b306ed1c751c3ea40800000000000000
+      internalID: 5396369361178878011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_136
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1123
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a6d6ed1271507a0800000000000000
+      internalID: -6411693060258960773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_137
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e143ce51a8b70bf0800000000000000
+      internalID: -358114642133564959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_138
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1125
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95881d78275fa370800000000000000
+      internalID: 8335977266695144859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_139
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1123
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af29652a0d71945e0800000000000000
+      internalID: -1924981180879957254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_140
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1120
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10f1de79079bbfe0800000000000000
+      internalID: -1172177210961694689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_141
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2a25fb4fe533880800000000000000
+      internalID: -8632451655464213776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_142
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39fe21f45bd4fec0800000000000000
+      internalID: -3533958649708873413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_143
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65b676828fbe08e0800000000000000
+      internalID: -1725231039913740948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_144
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1102
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a508247ed5bbabd30800000000000000
+      internalID: 4448073593968033882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_145
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1099
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530fb61043cfd6d60800000000000000
+      internalID: 7885235822887956533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_146
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1079
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf05e0789b043070800000000000000
+      internalID: 8085099980393877420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_147
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1094
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49c517dddbebf840800000000000000
+      internalID: 5259056327914015052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_148
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1084
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cd6fd31962fdc20800000000000000
+      internalID: 3233345462727007246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_149
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1070
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4ea37a985818200800000000000000
+      internalID: 180572286334199024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_150
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1071
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d47ed66fbbf0030800000000000000
+      internalID: 3463193305551424785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_151
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1067
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f25dbfe5566fc050800000000000000
+      internalID: 5822985362493756151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_152
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1037
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef01b49864d6a7250800000000000000
+      internalID: 5943182807987327230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_153
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1020
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afac42e3d9b197a0800000000000000
+      internalID: -6372107678066626655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chamali-default-000_154
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 29
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e53defdf47937500800000000000000
+      internalID: 392823961826440676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chamali-default-000_0: -8166810561406779273
+      chamali-default-000_1: -4340105399858108413
+      chamali-default-000_10: -8844274051267817501
+      chamali-default-000_100: 7201637559770033593
+      chamali-default-000_101: 4545926434390993164
+      chamali-default-000_102: 7014133741586400041
+      chamali-default-000_103: 584190297929147874
+      chamali-default-000_104: 1653575565926969755
+      chamali-default-000_105: 121914372474168613
+      chamali-default-000_106: -3076603296076196535
+      chamali-default-000_107: -5568161599477632022
+      chamali-default-000_108: 3489454939763651991
+      chamali-default-000_109: -7613652799540927822
+      chamali-default-000_11: -1366368995745340257
+      chamali-default-000_110: -8544798051105344966
+      chamali-default-000_111: -108961822292923091
+      chamali-default-000_112: 6871665515913988125
+      chamali-default-000_113: -8926175573381515775
+      chamali-default-000_114: 624595975875772182
+      chamali-default-000_115: -138185952805827537
+      chamali-default-000_116: 3803553113350406810
+      chamali-default-000_117: -4855848078007368545
+      chamali-default-000_118: 5853083262796704663
+      chamali-default-000_119: -2353226450125695143
+      chamali-default-000_12: 8664479588911692966
+      chamali-default-000_120: -1794736635149605698
+      chamali-default-000_121: -545162297721101325
+      chamali-default-000_122: 1762092195844825817
+      chamali-default-000_123: -4798649213157226834
+      chamali-default-000_124: -8535376503206616386
+      chamali-default-000_125: -8681060371681441273
+      chamali-default-000_126: -3889234413914904614
+      chamali-default-000_127: 2672573907982160695
+      chamali-default-000_128: 1858600421415390774
+      chamali-default-000_129: 4255577219711108533
+      chamali-default-000_13: -8985266221069664682
+      chamali-default-000_130: -3742679801995020426
+      chamali-default-000_131: 602149748286180507
+      chamali-default-000_132: -8735489036026735863
+      chamali-default-000_133: 5999802227477614727
+      chamali-default-000_134: 897609880722719027
+      chamali-default-000_135: 5396369361178878011
+      chamali-default-000_136: -6411693060258960773
+      chamali-default-000_137: -358114642133564959
+      chamali-default-000_138: 8335977266695144859
+      chamali-default-000_139: -1924981180879957254
+      chamali-default-000_14: 7561814237501343431
+      chamali-default-000_140: -1172177210961694689
+      chamali-default-000_141: -8632451655464213776
+      chamali-default-000_142: -3533958649708873413
+      chamali-default-000_143: -1725231039913740948
+      chamali-default-000_144: 4448073593968033882
+      chamali-default-000_145: 7885235822887956533
+      chamali-default-000_146: 8085099980393877420
+      chamali-default-000_147: 5259056327914015052
+      chamali-default-000_148: 3233345462727007246
+      chamali-default-000_149: 180572286334199024
+      chamali-default-000_15: -2580265790361633005
+      chamali-default-000_150: 3463193305551424785
+      chamali-default-000_151: 5822985362493756151
+      chamali-default-000_152: 5943182807987327230
+      chamali-default-000_153: -6372107678066626655
+      chamali-default-000_154: 392823961826440676
+      chamali-default-000_16: 2444858947246569947
+      chamali-default-000_17: 5764705748312334512
+      chamali-default-000_18: 2945362866223808916
+      chamali-default-000_19: -6739134247775093446
+      chamali-default-000_2: -4761334800807888337
+      chamali-default-000_20: 2084808966433004012
+      chamali-default-000_21: -6769675132244881155
+      chamali-default-000_22: 6189730308232514108
+      chamali-default-000_23: -7091462255344989669
+      chamali-default-000_24: -4778787374789885629
+      chamali-default-000_25: -7402784211718291761
+      chamali-default-000_26: 5395607552856443387
+      chamali-default-000_27: -3010018363331178190
+      chamali-default-000_28: 4843101046444564314
+      chamali-default-000_29: -4048810194600460813
+      chamali-default-000_3: 4095565770700953494
+      chamali-default-000_30: 5604963398616707811
+      chamali-default-000_31: 8282890066010279612
+      chamali-default-000_32: 7844667554779957345
+      chamali-default-000_33: 978451089254475030
+      chamali-default-000_34: -3550312546938894064
+      chamali-default-000_35: 1123466968108273632
+      chamali-default-000_36: -6866780786630656225
+      chamali-default-000_37: 6950859203576095098
+      chamali-default-000_38: -1885938799855246429
+      chamali-default-000_39: 3684941135596614363
+      chamali-default-000_4: 1762428104275916417
+      chamali-default-000_40: 8311682984513647926
+      chamali-default-000_41: -4932291011956877226
+      chamali-default-000_42: 942019087910330943
+      chamali-default-000_43: -3221900792938563700
+      chamali-default-000_44: -1217306078373011471
+      chamali-default-000_45: 9010487934080379744
+      chamali-default-000_46: -5004415213368427249
+      chamali-default-000_47: -4686378653471126271
+      chamali-default-000_48: 5292096851222357829
+      chamali-default-000_49: 6154103428981034822
+      chamali-default-000_5: -3579079839047049561
+      chamali-default-000_50: -8194310362897931520
+      chamali-default-000_51: -982175007911979810
+      chamali-default-000_52: -8357017262139138444
+      chamali-default-000_53: -1349718941311083164
+      chamali-default-000_54: 2593846110750050610
+      chamali-default-000_55: -1484498899528032697
+      chamali-default-000_56: 1540096567162784316
+      chamali-default-000_57: 8726834955568492655
+      chamali-default-000_58: -5468574860223893829
+      chamali-default-000_59: -762324226655109910
+      chamali-default-000_6: -6030157097004693481
+      chamali-default-000_60: 2203278011991054094
+      chamali-default-000_61: -4305120589232028757
+      chamali-default-000_62: -7700382297417842807
+      chamali-default-000_63: -1674293118644713513
+      chamali-default-000_64: -2838057247246730102
+      chamali-default-000_65: -812655668043163056
+      chamali-default-000_66: 8571109471256456985
+      chamali-default-000_67: 3312309629063290261
+      chamali-default-000_68: 6226236587935112789
+      chamali-default-000_69: -2608485860532135183
+      chamali-default-000_7: 4200757879241005131
+      chamali-default-000_70: -6246588677450888243
+      chamali-default-000_71: -1157999653356641318
+      chamali-default-000_72: 4327910332605516619
+      chamali-default-000_73: -7753290761614678541
+      chamali-default-000_74: 4354920524639239789
+      chamali-default-000_75: 2285294733687567463
+      chamali-default-000_76: -7979173551609787713
+      chamali-default-000_77: -8038483768671484072
+      chamali-default-000_78: -5316089675560899353
+      chamali-default-000_79: -1335511954140027052
+      chamali-default-000_8: 3771848799809429897
+      chamali-default-000_80: -5600228989057464263
+      chamali-default-000_81: -2172705646444694352
+      chamali-default-000_82: 1712862400051298488
+      chamali-default-000_83: -6352555842661071105
+      chamali-default-000_84: -951077412000146151
+      chamali-default-000_85: -3383895244229634628
+      chamali-default-000_86: 3216018830779539142
+      chamali-default-000_87: -5859035389501168260
+      chamali-default-000_88: 7126609231535775719
+      chamali-default-000_89: 1975803601805454341
+      chamali-default-000_9: 4738549978977171009
+      chamali-default-000_90: 2610485479567869633
+      chamali-default-000_91: -778182917673161014
+      chamali-default-000_92: -3217607833417058820
+      chamali-default-000_93: -2779862829772769073
+      chamali-default-000_94: 4201591522460610712
+      chamali-default-000_95: 1842507404485750666
+      chamali-default-000_96: 1461994185481001882
+      chamali-default-000_97: -2440191023791269826
+      chamali-default-000_98: 2318047014146545748
+      chamali-default-000_99: 8668704421626126218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

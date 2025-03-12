@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: 250165d29c5bbd944af34223bb731443
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8275885421810369602
+    second: ceiling_light-default-000_0
+  - first:
+      213: 5495509136536917846
+    second: ceiling_light-default-000_1
+  - first:
+      213: -2105923149833760759
+    second: ceiling_light-default-000_2
+  - first:
+      213: 526276443676482843
+    second: ceiling_light-default-000_3
+  - first:
+      213: 6952580873302292234
+    second: ceiling_light-default-000_4
+  - first:
+      213: 8848165919583151847
+    second: ceiling_light-default-000_5
+  - first:
+      213: -7464835349892410353
+    second: ceiling_light-default-000_6
+  - first:
+      213: 3712841035963231721
+    second: ceiling_light-default-000_7
+  - first:
+      213: -6474872167477906206
+    second: ceiling_light-default-000_8
+  - first:
+      213: 3481495286498639609
+    second: ceiling_light-default-000_9
+  - first:
+      213: -5994023952762784638
+    second: ceiling_light-default-000_10
+  - first:
+      213: 5196864782052978630
+    second: ceiling_light-default-000_11
+  - first:
+      213: 3423678228843828924
+    second: ceiling_light-default-000_12
+  - first:
+      213: 2342229716305347052
+    second: ceiling_light-default-000_13
+  - first:
+      213: -1876263200552916215
+    second: ceiling_light-default-000_14
+  - first:
+      213: 2572952416016235837
+    second: ceiling_light-default-000_15
+  - first:
+      213: 1508214844022047476
+    second: ceiling_light-default-000_16
+  - first:
+      213: -4597395595695581969
+    second: ceiling_light-default-000_17
+  - first:
+      213: 7512630810700187524
+    second: ceiling_light-default-000_18
+  - first:
+      213: -1597683720027719235
+    second: ceiling_light-default-000_19
+  - first:
+      213: -1883337030634858912
+    second: ceiling_light-default-000_20
+  - first:
+      213: -7600183953182957180
+    second: ceiling_light-default-000_21
+  - first:
+      213: -7166923852808363886
+    second: ceiling_light-default-000_22
+  - first:
+      213: -2881995697042274891
+    second: ceiling_light-default-000_23
+  - first:
+      213: -8587763443200789893
+    second: ceiling_light-default-000_24
+  - first:
+      213: 7891576355988202240
+    second: ceiling_light-default-000_25
+  - first:
+      213: -7675698873802065826
+    second: ceiling_light-default-000_26
+  - first:
+      213: -4287045308029342736
+    second: ceiling_light-default-000_27
+  - first:
+      213: -6404625381587965575
+    second: ceiling_light-default-000_28
+  - first:
+      213: 545416049450869471
+    second: ceiling_light-default-000_29
+  - first:
+      213: 2686669397391095926
+    second: ceiling_light-default-000_30
+  - first:
+      213: 5647705475747983273
+    second: ceiling_light-default-000_31
+  - first:
+      213: -8636755864308326312
+    second: ceiling_light-default-000_32
+  - first:
+      213: 2297114503576796631
+    second: ceiling_light-default-000_33
+  - first:
+      213: -4483179017951708138
+    second: ceiling_light-default-000_34
+  - first:
+      213: -2423710867218465107
+    second: ceiling_light-default-000_35
+  - first:
+      213: 2353744851424570221
+    second: ceiling_light-default-000_36
+  - first:
+      213: -5004121800543497984
+    second: ceiling_light-default-000_37
+  - first:
+      213: -120042061391179734
+    second: ceiling_light-default-000_38
+  - first:
+      213: -5343963583528631241
+    second: ceiling_light-default-000_39
+  - first:
+      213: 6426351735799578912
+    second: ceiling_light-default-000_40
+  - first:
+      213: 5787256199924093385
+    second: ceiling_light-default-000_41
+  - first:
+      213: 5578758376589109728
+    second: ceiling_light-default-000_42
+  - first:
+      213: 2698576559204006471
+    second: ceiling_light-default-000_43
+  - first:
+      213: -5736641300442451514
+    second: ceiling_light-default-000_44
+  - first:
+      213: 7659258172476638020
+    second: ceiling_light-default-000_45
+  - first:
+      213: -4141013613578227774
+    second: ceiling_light-default-000_46
+  - first:
+      213: 8374338192300746405
+    second: ceiling_light-default-000_47
+  - first:
+      213: 2427769604685689168
+    second: ceiling_light-default-000_48
+  - first:
+      213: 7721624156918633994
+    second: ceiling_light-default-000_49
+  - first:
+      213: 8193738344099660317
+    second: ceiling_light-default-000_50
+  - first:
+      213: -7484602332336535544
+    second: ceiling_light-default-000_51
+  - first:
+      213: 35781434957407538
+    second: ceiling_light-default-000_52
+  - first:
+      213: -1348214748168026477
+    second: ceiling_light-default-000_53
+  - first:
+      213: -96758734204835346
+    second: ceiling_light-default-000_54
+  - first:
+      213: 2233920746724019207
+    second: ceiling_light-default-000_55
+  - first:
+      213: -5861820555088334417
+    second: ceiling_light-default-000_56
+  - first:
+      213: 5492332344353366415
+    second: ceiling_light-default-000_57
+  - first:
+      213: -8517974906893992107
+    second: ceiling_light-default-000_58
+  - first:
+      213: 1989671513714237449
+    second: ceiling_light-default-000_59
+  - first:
+      213: 3891869028074531877
+    second: ceiling_light-default-000_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ceiling_light-default-000_0
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 4075
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbb82f6e06262d80800000000000000
+      internalID: -8275885421810369602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_1
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 4080
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65752377178f34c40800000000000000
+      internalID: 5495509136536917846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_2
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 4075
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90013e98d0246c2e0800000000000000
+      internalID: -2105923149833760759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_3
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 4071
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d1efe13a5bd4700800000000000000
+      internalID: 526276443676482843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_4
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 4071
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07bb59c7778c7060800000000000000
+      internalID: 6952580873302292234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_5
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 4067
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6a87636000bca70800000000000000
+      internalID: 8848165919583151847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_6
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 4067
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0452e6bcc3976890800000000000000
+      internalID: -7464835349892410353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_7
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 4071
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ede4103049a68330800000000000000
+      internalID: 3712841035963231721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 16
+        width: 4472
+        height: 4049
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e47a6ba112a426a0800000000000000
+      internalID: -6474872167477906206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_9
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 4046
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9feb2fe6481c05030800000000000000
+      internalID: 3481495286498639609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_10
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4063
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284346009f2f0dca0800000000000000
+      internalID: -5994023952762784638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_11
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 4059
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf61003cf8fe1840800000000000000
+      internalID: 5196864782052978630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_12
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 4059
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6997fa539538f20800000000000000
+      internalID: 3423678228843828924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_13
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 4063
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce18ebe6485418020800000000000000
+      internalID: 2342229716305347052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_14
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 4059
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90be7e95f8c26f5e0800000000000000
+      internalID: -1876263200552916215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_15
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 4063
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d71ac1796f4b320800000000000000
+      internalID: 2572952416016235837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_16
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 4063
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2c7e6e8614ee410800000000000000
+      internalID: 1508214844022047476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_17
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 4059
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe49e925015c230c0800000000000000
+      internalID: -4597395595695581969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48780703be9324860800000000000000
+      internalID: 7512630810700187524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_19
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 2070
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9b25c1f13e3d9e0800000000000000
+      internalID: -1597683720027719235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2062
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0669ba0f2fa0dd5e0800000000000000
+      internalID: -1883337030634858912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_21
+      rect:
+        serializedVersion: 2
+        x: 4514
+        y: 2049
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481e7ea46f8b68690800000000000000
+      internalID: -7600183953182957180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2041
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29065155ab8f98c90800000000000000
+      internalID: -7166923852808363886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_23
+      rect:
+        serializedVersion: 2
+        x: 4498
+        y: 2020
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b54799de281108d0800000000000000
+      internalID: -2881995697042274891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_24
+      rect:
+        serializedVersion: 2
+        x: 4498
+        y: 2007
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b727ee8f5a222d880800000000000000
+      internalID: -8587763443200789893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1991
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0036c8862e2848d60800000000000000
+      internalID: 7891576355988202240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_26
+      rect:
+        serializedVersion: 2
+        x: 4498
+        y: 1983
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e587928ba807a7590800000000000000
+      internalID: -7675698873802065826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_27
+      rect:
+        serializedVersion: 2
+        x: 4510
+        y: 1970
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbe7ee810b5184c0800000000000000
+      internalID: -4287045308029342736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_28
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 1974
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979affa06233e17a0800000000000000
+      internalID: -6404625381587965575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1957
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2e05ad105b19700800000000000000
+      internalID: 545416049450869471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1936
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678b8641597f84520800000000000000
+      internalID: 2686669397391095926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_31
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 1936
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afacf5153ea06e40800000000000000
+      internalID: 5647705475747983273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1928
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85061280d44142880800000000000000
+      internalID: -8636755864308326312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1920
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddb71a687df0ef10800000000000000
+      internalID: 2297114503576796631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1899
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cf082af6c88c1c0800000000000000
+      internalID: -4483179017951708138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_35
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1899
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae7031cecf3d5ed0800000000000000
+      internalID: -2423710867218465107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1828
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6be011c87e2aa020800000000000000
+      internalID: 2353744851424570221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1824
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00111d14cb9cd8ab0800000000000000
+      internalID: -5004121800543497984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_38
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1832
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a205ca49166855ef0800000000000000
+      internalID: -120042061391179734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_39
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 1824
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734072f2f6d66d5b0800000000000000
+      internalID: -5343963583528631241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1782
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0218c0efadcfe2950800000000000000
+      internalID: 6426351735799578912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1782
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c117a40ad6705050800000000000000
+      internalID: 5787256199924093385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1770
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9245c9f2bbb6d40800000000000000
+      internalID: 5578758376589109728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1745
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74afc8a3515437520800000000000000
+      internalID: 2698576559204006471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_44
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 1736
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1fa4b912b5360b0800000000000000
+      internalID: -5736641300442451514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1732
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4434a753ab62b4a60800000000000000
+      internalID: 7659258172476638020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_46
+      rect:
+        serializedVersion: 2
+        x: 4510
+        y: 1728
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfec98fe0a2886c0800000000000000
+      internalID: -4141013613578227774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1720
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6a21d7730a73470800000000000000
+      internalID: 8374338192300746405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_48
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1707
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051f7c3b79b21b120800000000000000
+      internalID: 2427769604685689168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1624
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06d5328248b82b60800000000000000
+      internalID: 7721624156918633994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1603
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12ce869c9106b170800000000000000
+      internalID: 8193738344099660317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1561
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808450875d9512890800000000000000
+      internalID: -7484602332336535544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1516
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235a038860f1f7000800000000000000
+      internalID: 35781434957407538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_53
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396808664dd2a4de0800000000000000
+      internalID: -1348214748168026477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_54
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 12
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9edc2a17e38aef0800000000000000
+      internalID: -96758734204835346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_55
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c4cd4551b700f10800000000000000
+      internalID: 2233920746724019207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_56
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa170ec2341a6aea0800000000000000
+      internalID: -5861820555088334417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_57
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f812295ea2fa83c40800000000000000
+      internalID: 5492332344353366415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_58
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f74ecc3f21ac980800000000000000
+      internalID: -8517974906893992107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_59
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 0
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900a6a233bbbc9b10800000000000000
+      internalID: 1989671513714237449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-default-000_60
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c2ab2d242b20630800000000000000
+      internalID: 3891869028074531877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ceiling_light-default-000_0: -8275885421810369602
+      ceiling_light-default-000_1: 5495509136536917846
+      ceiling_light-default-000_10: -5994023952762784638
+      ceiling_light-default-000_11: 5196864782052978630
+      ceiling_light-default-000_12: 3423678228843828924
+      ceiling_light-default-000_13: 2342229716305347052
+      ceiling_light-default-000_14: -1876263200552916215
+      ceiling_light-default-000_15: 2572952416016235837
+      ceiling_light-default-000_16: 1508214844022047476
+      ceiling_light-default-000_17: -4597395595695581969
+      ceiling_light-default-000_18: 7512630810700187524
+      ceiling_light-default-000_19: -1597683720027719235
+      ceiling_light-default-000_2: -2105923149833760759
+      ceiling_light-default-000_20: -1883337030634858912
+      ceiling_light-default-000_21: -7600183953182957180
+      ceiling_light-default-000_22: -7166923852808363886
+      ceiling_light-default-000_23: -2881995697042274891
+      ceiling_light-default-000_24: -8587763443200789893
+      ceiling_light-default-000_25: 7891576355988202240
+      ceiling_light-default-000_26: -7675698873802065826
+      ceiling_light-default-000_27: -4287045308029342736
+      ceiling_light-default-000_28: -6404625381587965575
+      ceiling_light-default-000_29: 545416049450869471
+      ceiling_light-default-000_3: 526276443676482843
+      ceiling_light-default-000_30: 2686669397391095926
+      ceiling_light-default-000_31: 5647705475747983273
+      ceiling_light-default-000_32: -8636755864308326312
+      ceiling_light-default-000_33: 2297114503576796631
+      ceiling_light-default-000_34: -4483179017951708138
+      ceiling_light-default-000_35: -2423710867218465107
+      ceiling_light-default-000_36: 2353744851424570221
+      ceiling_light-default-000_37: -5004121800543497984
+      ceiling_light-default-000_38: -120042061391179734
+      ceiling_light-default-000_39: -5343963583528631241
+      ceiling_light-default-000_4: 6952580873302292234
+      ceiling_light-default-000_40: 6426351735799578912
+      ceiling_light-default-000_41: 5787256199924093385
+      ceiling_light-default-000_42: 5578758376589109728
+      ceiling_light-default-000_43: 2698576559204006471
+      ceiling_light-default-000_44: -5736641300442451514
+      ceiling_light-default-000_45: 7659258172476638020
+      ceiling_light-default-000_46: -4141013613578227774
+      ceiling_light-default-000_47: 8374338192300746405
+      ceiling_light-default-000_48: 2427769604685689168
+      ceiling_light-default-000_49: 7721624156918633994
+      ceiling_light-default-000_5: 8848165919583151847
+      ceiling_light-default-000_50: 8193738344099660317
+      ceiling_light-default-000_51: -7484602332336535544
+      ceiling_light-default-000_52: 35781434957407538
+      ceiling_light-default-000_53: -1348214748168026477
+      ceiling_light-default-000_54: -96758734204835346
+      ceiling_light-default-000_55: 2233920746724019207
+      ceiling_light-default-000_56: -5861820555088334417
+      ceiling_light-default-000_57: 5492332344353366415
+      ceiling_light-default-000_58: -8517974906893992107
+      ceiling_light-default-000_59: 1989671513714237449
+      ceiling_light-default-000_6: -7464835349892410353
+      ceiling_light-default-000_60: 3891869028074531877
+      ceiling_light-default-000_7: 3712841035963231721
+      ceiling_light-default-000_8: -6474872167477906206
+      ceiling_light-default-000_9: 3481495286498639609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: 1eb0126fc87fdbc4898bf8828e6a1f3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -461716225253408941
+    second: ceiling_light-yellow_light-000_0
+  - first:
+      213: 7114654089342834333
+    second: ceiling_light-yellow_light-000_1
+  - first:
+      213: -2487163647754166939
+    second: ceiling_light-yellow_light-000_2
+  - first:
+      213: -2799556066441161548
+    second: ceiling_light-yellow_light-000_3
+  - first:
+      213: -5155250873012054190
+    second: ceiling_light-yellow_light-000_4
+  - first:
+      213: 6165368477594925997
+    second: ceiling_light-yellow_light-000_5
+  - first:
+      213: -3474343686789054603
+    second: ceiling_light-yellow_light-000_6
+  - first:
+      213: 684718799955683639
+    second: ceiling_light-yellow_light-000_7
+  - first:
+      213: 8135702417855011816
+    second: ceiling_light-yellow_light-000_8
+  - first:
+      213: -2725589954598097382
+    second: ceiling_light-yellow_light-000_9
+  - first:
+      213: -1774778249777532624
+    second: ceiling_light-yellow_light-000_10
+  - first:
+      213: 2689177456009535394
+    second: ceiling_light-yellow_light-000_11
+  - first:
+      213: -8854224850665339556
+    second: ceiling_light-yellow_light-000_12
+  - first:
+      213: 2345567161828810910
+    second: ceiling_light-yellow_light-000_13
+  - first:
+      213: 7247796215798847695
+    second: ceiling_light-yellow_light-000_14
+  - first:
+      213: -8858235357240783862
+    second: ceiling_light-yellow_light-000_15
+  - first:
+      213: -4454342834094654930
+    second: ceiling_light-yellow_light-000_16
+  - first:
+      213: 4628030201063905062
+    second: ceiling_light-yellow_light-000_17
+  - first:
+      213: 2151074763029291389
+    second: ceiling_light-yellow_light-000_18
+  - first:
+      213: 4312579251618680452
+    second: ceiling_light-yellow_light-000_19
+  - first:
+      213: 657654014702292680
+    second: ceiling_light-yellow_light-000_20
+  - first:
+      213: 2375858764116456589
+    second: ceiling_light-yellow_light-000_21
+  - first:
+      213: 2325894442766126937
+    second: ceiling_light-yellow_light-000_22
+  - first:
+      213: 1629959759454145344
+    second: ceiling_light-yellow_light-000_23
+  - first:
+      213: 2948311956611144821
+    second: ceiling_light-yellow_light-000_24
+  - first:
+      213: 3881087654463911513
+    second: ceiling_light-yellow_light-000_25
+  - first:
+      213: -117886277685877811
+    second: ceiling_light-yellow_light-000_26
+  - first:
+      213: 4903182914420268731
+    second: ceiling_light-yellow_light-000_27
+  - first:
+      213: -5677769277793404496
+    second: ceiling_light-yellow_light-000_28
+  - first:
+      213: -7293751641077511712
+    second: ceiling_light-yellow_light-000_29
+  - first:
+      213: -6058986291142625344
+    second: ceiling_light-yellow_light-000_30
+  - first:
+      213: 892653841337444588
+    second: ceiling_light-yellow_light-000_31
+  - first:
+      213: 3950606138997134561
+    second: ceiling_light-yellow_light-000_32
+  - first:
+      213: -3066054787448254176
+    second: ceiling_light-yellow_light-000_33
+  - first:
+      213: -5511281552194516013
+    second: ceiling_light-yellow_light-000_34
+  - first:
+      213: 8666714321321887316
+    second: ceiling_light-yellow_light-000_35
+  - first:
+      213: -6955289251740944072
+    second: ceiling_light-yellow_light-000_36
+  - first:
+      213: -3978675375023351454
+    second: ceiling_light-yellow_light-000_37
+  - first:
+      213: -1441468380648415318
+    second: ceiling_light-yellow_light-000_38
+  - first:
+      213: -4760261573784664579
+    second: ceiling_light-yellow_light-000_39
+  - first:
+      213: 1664887996716931751
+    second: ceiling_light-yellow_light-000_40
+  - first:
+      213: 4851316117831326007
+    second: ceiling_light-yellow_light-000_41
+  - first:
+      213: 417661378141608760
+    second: ceiling_light-yellow_light-000_42
+  - first:
+      213: 2019846998692151302
+    second: ceiling_light-yellow_light-000_43
+  - first:
+      213: 8687667313993067359
+    second: ceiling_light-yellow_light-000_44
+  - first:
+      213: -3472151330265533885
+    second: ceiling_light-yellow_light-000_45
+  - first:
+      213: -9128066983466422426
+    second: ceiling_light-yellow_light-000_46
+  - first:
+      213: -4921553962928268930
+    second: ceiling_light-yellow_light-000_47
+  - first:
+      213: 5566529076880138102
+    second: ceiling_light-yellow_light-000_48
+  - first:
+      213: 830721835366802353
+    second: ceiling_light-yellow_light-000_49
+  - first:
+      213: 5510286539418734170
+    second: ceiling_light-yellow_light-000_50
+  - first:
+      213: -2674468379568779025
+    second: ceiling_light-yellow_light-000_51
+  - first:
+      213: 902766722362036869
+    second: ceiling_light-yellow_light-000_52
+  - first:
+      213: -306443887979799111
+    second: ceiling_light-yellow_light-000_53
+  - first:
+      213: 4042187933223397117
+    second: ceiling_light-yellow_light-000_54
+  - first:
+      213: 5568547599105170855
+    second: ceiling_light-yellow_light-000_55
+  - first:
+      213: 1604489891223439059
+    second: ceiling_light-yellow_light-000_56
+  - first:
+      213: 5074115535534866330
+    second: ceiling_light-yellow_light-000_57
+  - first:
+      213: -8049196701571114322
+    second: ceiling_light-yellow_light-000_58
+  - first:
+      213: -8302543652626020735
+    second: ceiling_light-yellow_light-000_59
+  - first:
+      213: 3647233460736669249
+    second: ceiling_light-yellow_light-000_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_0
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 4075
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f7cb61a87a799f0800000000000000
+      internalID: -461716225253408941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_1
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 4080
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d965f0ff2345cb260800000000000000
+      internalID: 7114654089342834333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_2
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 4075
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d195507d1db7dd0800000000000000
+      internalID: -2487163647754166939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_3
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 4071
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b41cfa179af529d0800000000000000
+      internalID: -2799556066441161548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_4
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 4071
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257181a05aed478b0800000000000000
+      internalID: -5155250873012054190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_5
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 4067
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabbf6007f9cf8550800000000000000
+      internalID: 6165368477594925997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_6
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 4067
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f315123d6a8cfc0800000000000000
+      internalID: -3474343686789054603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_7
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 4071
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739e36aee1c908900800000000000000
+      internalID: 684718799955683639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 16
+        width: 4472
+        height: 4049
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebd8868e32d7e070800000000000000
+      internalID: 8135702417855011816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_9
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 4046
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eaec88062cc2ad0800000000000000
+      internalID: -2725589954598097382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_10
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4063
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031bbe2c598be57e0800000000000000
+      internalID: -1774778249777532624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_11
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 4059
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afdf6bf5a0e15520800000000000000
+      internalID: 2689177456009535394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_12
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 4059
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5508a6f8697f1580800000000000000
+      internalID: -8854224850665339556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_13
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 4063
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90a0a508e02d8020800000000000000
+      internalID: 2345567161828810910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_14
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 4059
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc85c1ff148559460800000000000000
+      internalID: 7247796215798847695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_15
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 4063
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c8bd220e9311580800000000000000
+      internalID: -8858235357240783862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_16
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 4063
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a3bf1eacefe22c0800000000000000
+      internalID: -4454342834094654930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_17
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 4059
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627913092f01a3040800000000000000
+      internalID: 4628030201063905062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d712baf99172add10800000000000000
+      internalID: 2151074763029291389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_19
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 2070
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e8376fafb59db30800000000000000
+      internalID: 4312579251618680452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2062
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce807b87d4702900800000000000000
+      internalID: 657654014702292680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_21
+      rect:
+        serializedVersion: 2
+        x: 4514
+        y: 2049
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84f8a745feb8f020800000000000000
+      internalID: 2375858764116456589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2041
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f412e2cac374020800000000000000
+      internalID: 2325894442766126937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_23
+      rect:
+        serializedVersion: 2
+        x: 4498
+        y: 2020
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b027ce3c7ce9610800000000000000
+      internalID: 1629959759454145344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_24
+      rect:
+        serializedVersion: 2
+        x: 4498
+        y: 2007
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c18dc8a128ae820800000000000000
+      internalID: 2948311956611144821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1991
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956b97aa8a46cd530800000000000000
+      internalID: 3881087654463911513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_26
+      rect:
+        serializedVersion: 2
+        x: 4498
+        y: 1983
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3e3a61e0f2d5ef0800000000000000
+      internalID: -117886277685877811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_27
+      rect:
+        serializedVersion: 2
+        x: 4510
+        y: 1970
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbed8cae1ea9b0440800000000000000
+      internalID: 4903182914420268731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_28
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 1974
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b97f788ce28431b0800000000000000
+      internalID: -5677769277793404496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1957
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e907a1c68367ca90800000000000000
+      internalID: -7293751641077511712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1936
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c77b71f1182aeba0800000000000000
+      internalID: -6058986291142625344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_31
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 1936
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce86e4070f7536c00800000000000000
+      internalID: 892653841337444588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1928
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4d66a2a5f53d630800000000000000
+      internalID: 3950606138997134561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1920
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021d24c5a6f2375d0800000000000000
+      internalID: -3066054787448254176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1899
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db4848d0aef383b0800000000000000
+      internalID: -5511281552194516013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_35
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1899
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4568e2cc1ca564870800000000000000
+      internalID: 8666714321321887316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1828
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83973e7b649d97f90800000000000000
+      internalID: -6955289251740944072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1824
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269932b83d7e8c8c0800000000000000
+      internalID: -3978675375023351454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_38
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1832
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf5e702520eefbe0800000000000000
+      internalID: -1441468380648415318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_39
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 1824
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df58f90d15720fdb0800000000000000
+      internalID: -4760261573784664579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1782
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aadf13efceda1710800000000000000
+      internalID: 1664887996716931751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1782
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73996784e46535340800000000000000
+      internalID: 4851316117831326007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1770
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bd7808fc4dbc500800000000000000
+      internalID: 417661378141608760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1745
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6004fa9c420f70c10800000000000000
+      internalID: 2019846998692151302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_44
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 1736
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b2451946bc09870800000000000000
+      internalID: 8687667313993067359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1732
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3427f19e2c070dfc0800000000000000
+      internalID: -3472151330265533885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_46
+      rect:
+        serializedVersion: 2
+        x: 4510
+        y: 1728
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f238ce077925180800000000000000
+      internalID: -9128066983466422426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1720
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e799eb80fb023bbb0800000000000000
+      internalID: -4921553962928268930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_48
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1707
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fd253e3b8404d40800000000000000
+      internalID: 5566529076880138102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1624
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3e230ab11578b00800000000000000
+      internalID: 830721835366802353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1603
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e8ba0b968787c40800000000000000
+      internalID: 5510286539418734170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1561
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0d9c0cd2162ead0800000000000000
+      internalID: -2674468379568779025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1516
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582de690d85478c00800000000000000
+      internalID: 902766722362036869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_53
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bddf5158ea4fbbf0800000000000000
+      internalID: -306443887979799111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_54
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 12
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6a623428cb81830800000000000000
+      internalID: 4042187933223397117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_55
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad9487b984774d40800000000000000
+      internalID: 5568547599105170855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_56
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6041c1e0b444610800000000000000
+      internalID: 1604489891223439059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_57
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fb8dc1231ea6640800000000000000
+      internalID: 5074115535534866330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_58
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa9b931f328b4090800000000000000
+      internalID: -8049196701571114322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_59
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 0
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1864d05698077cc80800000000000000
+      internalID: -8302543652626020735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceiling_light-yellow_light-000_60
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146b02832839d9230800000000000000
+      internalID: 3647233460736669249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ceiling_light-yellow_light-000_0: -461716225253408941
+      ceiling_light-yellow_light-000_1: 7114654089342834333
+      ceiling_light-yellow_light-000_10: -1774778249777532624
+      ceiling_light-yellow_light-000_11: 2689177456009535394
+      ceiling_light-yellow_light-000_12: -8854224850665339556
+      ceiling_light-yellow_light-000_13: 2345567161828810910
+      ceiling_light-yellow_light-000_14: 7247796215798847695
+      ceiling_light-yellow_light-000_15: -8858235357240783862
+      ceiling_light-yellow_light-000_16: -4454342834094654930
+      ceiling_light-yellow_light-000_17: 4628030201063905062
+      ceiling_light-yellow_light-000_18: 2151074763029291389
+      ceiling_light-yellow_light-000_19: 4312579251618680452
+      ceiling_light-yellow_light-000_2: -2487163647754166939
+      ceiling_light-yellow_light-000_20: 657654014702292680
+      ceiling_light-yellow_light-000_21: 2375858764116456589
+      ceiling_light-yellow_light-000_22: 2325894442766126937
+      ceiling_light-yellow_light-000_23: 1629959759454145344
+      ceiling_light-yellow_light-000_24: 2948311956611144821
+      ceiling_light-yellow_light-000_25: 3881087654463911513
+      ceiling_light-yellow_light-000_26: -117886277685877811
+      ceiling_light-yellow_light-000_27: 4903182914420268731
+      ceiling_light-yellow_light-000_28: -5677769277793404496
+      ceiling_light-yellow_light-000_29: -7293751641077511712
+      ceiling_light-yellow_light-000_3: -2799556066441161548
+      ceiling_light-yellow_light-000_30: -6058986291142625344
+      ceiling_light-yellow_light-000_31: 892653841337444588
+      ceiling_light-yellow_light-000_32: 3950606138997134561
+      ceiling_light-yellow_light-000_33: -3066054787448254176
+      ceiling_light-yellow_light-000_34: -5511281552194516013
+      ceiling_light-yellow_light-000_35: 8666714321321887316
+      ceiling_light-yellow_light-000_36: -6955289251740944072
+      ceiling_light-yellow_light-000_37: -3978675375023351454
+      ceiling_light-yellow_light-000_38: -1441468380648415318
+      ceiling_light-yellow_light-000_39: -4760261573784664579
+      ceiling_light-yellow_light-000_4: -5155250873012054190
+      ceiling_light-yellow_light-000_40: 1664887996716931751
+      ceiling_light-yellow_light-000_41: 4851316117831326007
+      ceiling_light-yellow_light-000_42: 417661378141608760
+      ceiling_light-yellow_light-000_43: 2019846998692151302
+      ceiling_light-yellow_light-000_44: 8687667313993067359
+      ceiling_light-yellow_light-000_45: -3472151330265533885
+      ceiling_light-yellow_light-000_46: -9128066983466422426
+      ceiling_light-yellow_light-000_47: -4921553962928268930
+      ceiling_light-yellow_light-000_48: 5566529076880138102
+      ceiling_light-yellow_light-000_49: 830721835366802353
+      ceiling_light-yellow_light-000_5: 6165368477594925997
+      ceiling_light-yellow_light-000_50: 5510286539418734170
+      ceiling_light-yellow_light-000_51: -2674468379568779025
+      ceiling_light-yellow_light-000_52: 902766722362036869
+      ceiling_light-yellow_light-000_53: -306443887979799111
+      ceiling_light-yellow_light-000_54: 4042187933223397117
+      ceiling_light-yellow_light-000_55: 5568547599105170855
+      ceiling_light-yellow_light-000_56: 1604489891223439059
+      ceiling_light-yellow_light-000_57: 5074115535534866330
+      ceiling_light-yellow_light-000_58: -8049196701571114322
+      ceiling_light-yellow_light-000_59: -8302543652626020735
+      ceiling_light-yellow_light-000_6: -3474343686789054603
+      ceiling_light-yellow_light-000_60: 3647233460736669249
+      ceiling_light-yellow_light-000_7: 684718799955683639
+      ceiling_light-yellow_light-000_8: 8135702417855011816
+      ceiling_light-yellow_light-000_9: -2725589954598097382
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
